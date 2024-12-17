@@ -92,5 +92,5 @@ This dashboard highlights key insights into market performance, customer contrib
 
 --- 
 
-Let me know if you need further refinements!
+
 ![Screenshot (370)](https://github.com/user-attachments/assets/e115e2ad-fd03-45e7-b04c-e16fbe698825)
